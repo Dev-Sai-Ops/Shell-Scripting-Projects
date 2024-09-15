@@ -10,4 +10,3 @@ do
         echo $Green $(date +%T)
         sleep 1s
 done
-
